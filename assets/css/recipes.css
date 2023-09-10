@@ -1,0 +1,6 @@
+.recipes{
+    background: #e5e5e5;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 3rem 3rem 0 3rem;
+}

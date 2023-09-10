@@ -1,0 +1,6 @@
+.person__title{
+    color: #595959;
+    display: inline;
+    font-size: 1.25rem;
+    text-transform: lowercase;
+}
